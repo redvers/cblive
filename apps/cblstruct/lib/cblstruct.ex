@@ -1,0 +1,2 @@
+defmodule Cblstruct do
+end
